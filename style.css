@@ -1,0 +1,40 @@
+body {
+    background-color: #D0F0C0;
+}
+
+nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+    
+}
+
+.background_img{
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+}
+
+.link{
+    width: 30%;
+    margin: 20px;    
+}
+
+.images {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
