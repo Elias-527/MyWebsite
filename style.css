@@ -38,3 +38,49 @@ a {
     text-decoration: none;
     color: black;
 }
+
+
+.format {
+    display: flex;
+}
+
+.Image  {
+    color: white;
+    text-decoration-thickness: 10px;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    border: 2px solid black;
+    align-items: center;
+    justify-content: center;
+    background-image: url("83CDA715-31FB-4FBE-B7B1-ED840213C922.jpeg");
+    background-size: cover;
+    background-position: center;
+    margin:50px;
+}
+
+.Image2  {
+    width: 500px;
+    height: 500px;
+    display: flex;
+    border: 2px solid black;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOhntc4Qy1RCu3sNOep0WJo3xvCNkNozxX6g_GKfRSFpuOvrHsr6jCAk4&s=10");
+    background-size: cover;
+    background-position: center;
+    margin:50px;
+}
+
+.Image3  {
+    width: 500px;
+    height: 500px;
+    display: flex;
+    border: 2px solid black;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOhntc4Qy1RCu3sNOep0WJo3xvCNkNozxX6g_GKfRSFpuOvrHsr6jCAk4&s=10");
+    background-size: cover;
+    background-position: center;
+    margin:50px;
+}
